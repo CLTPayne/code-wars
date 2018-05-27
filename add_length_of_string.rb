@@ -22,4 +22,4 @@ end
 # Create a new empty array
 # Iterate over the original array and for each word add a new string featuring word length to the new array
 # (Use string interpolation)
-# Return new array 
+# Return new array
